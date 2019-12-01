@@ -4,5 +4,13 @@
 4.git 1 update
 5.git 2 update
 6.origin commit
+<<<<<<< HEAD
 7.other change
 other commit
+=======
+<<<<<<< HEAD
+7.master 2commit
+=======
+
+master
+>>>>>>> master
