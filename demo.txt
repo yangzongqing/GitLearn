@@ -4,6 +4,7 @@
 4.git 1 update
 5.git 2 update
 6.origin commit
+<<<<<<< HEAD
 8.master commit
 9.master commit2
 8.other master commit
@@ -12,3 +13,8 @@
 客户端2先commit到 本地仓库中
 修改了工作区内容，git pull远程仓库，出现失败，
 猜测不会替换工作区内容
+=======
+
+7.master 2commit
+
+模拟客户端1先提交
