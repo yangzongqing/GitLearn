@@ -8,4 +8,7 @@
 9.master commit2
 8.other master commit
 10.other commit 2
-11
+11，模拟other分支和master存在版本冲突问题，
+猜想结果是：子分支合并到主分支，存在自动合并冲突，
+手动解决后生成一个新版本，再commit；
+若不存在版本冲突，则自动合并成功，但是合并后的版本，不需要commit？疑惑
