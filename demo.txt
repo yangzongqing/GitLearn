@@ -2,3 +2,4 @@
 2.git add
 3.git diff
 4.git 1 update
+5.git 2 update
